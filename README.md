@@ -11,6 +11,7 @@
 ## 🧭 Project Blueprint & Core Pillars
 
 When building or modifying features for this project, always adhere to our three core execution pillars:
+
 ┌─────────────────────────────────────────────────────────────────┐
 │                       INDUSTRIAL WORLD                          │
 ├───────────────────┬───────────────────────┬─────────────────────┤
